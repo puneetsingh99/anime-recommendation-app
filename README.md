@@ -1,6 +1,6 @@
 # anime-recommendation-app
 ## Are you an Anime fan...? 
-### This app is for recommending my favourite animes of different genre.
+### This app is for recommending my favourite animes of different genres.
 ### Do let me know what you think of it- [Anime recommendations](https://f0nm2.csb.app/)
 
 ## Technologies used
