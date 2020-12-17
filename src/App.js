@@ -61,7 +61,7 @@ export default function App() {
   return (
     <div className="App">
       <nav>
-        <h1>Best Anime</h1>
+        <h1>Best </h1>
         <p> I have curated a list of great animes of different genres</p>
       </nav>
       <div id="btn-container">
