@@ -4,5 +4,7 @@
 ### Do let me know what you think of it [Anime recommendations](https://f0nm2.csb.app/)
 
 ## Technologies used
-# ReactJS
+### ReactJS
+## See the [Source COde] (https://github.com/puneetsingh99/anime-recommendation-app).
+
 
