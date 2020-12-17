@@ -5,6 +5,7 @@
 
 ## Technologies used
 ### ReactJS
-## See the [Source COde] (https://github.com/puneetsingh99/anime-recommendation-app).
+### Code Sandbox
+## View in [Code Sandbox](https://github.com/puneetsingh99/anime-recommendation-app).
 
 
